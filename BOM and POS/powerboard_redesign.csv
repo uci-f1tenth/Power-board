@@ -1,7 +1,0 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"J1,J2,J3,J4";"TE_282834-2";4;"282834-2";"DigiKey: A98333-ND";
-2;"C2,C5";"CP_Radial_D8.0mm_P3.50mm";2;"100 nF (Ceramic)";"DigiKey: BC1084CT-ND";
-3;"U1";"CONV_PDQ30-Q24-D12-D";1;"PDQ30-Q24-D12-D";"DigiKey: 179-PDQ30-Q24-D12-D-ND";
-4;"C1,C4,C3";"CP_Radial_D8.0mm_P3.50mm";3;"100 uF (Alum. Elec)";"DigiKey: 1189-1895-ND";
-5;"D1";"LED_D3.0mm";1;"LED";"DigiKey: 160-1127-ND";
-6;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"560";"DigiKey: CFR16J560R-ND";
