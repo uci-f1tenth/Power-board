@@ -3104,7 +3104,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library3:TE_282834-2"
+		(property "Footprint" "F1TenthPowerBoard:TE_282834-2"
 			(at 179.07 45.72 0)
 			(effects
 				(font
@@ -3325,7 +3325,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library3:TE_282834-2"
+		(property "Footprint" "F1TenthPowerBoard:TE_282834-2"
 			(at 220.98 45.72 0)
 			(effects
 				(font
@@ -3616,7 +3616,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library3:TE_282834-2"
+		(property "Footprint" "F1TenthPowerBoard:TE_282834-2"
 			(at 118.11 48.26 0)
 			(effects
 				(font
@@ -3963,7 +3963,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library2:SW_100SP1T1B4M2QE"
+		(property "Footprint" "F1TenthPowerBoard:SW_100SP1T1B4M2QE"
 			(at 76.2 88.9 0)
 			(effects
 				(font
@@ -4157,7 +4157,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library3:TE_282834-2"
+		(property "Footprint" "F1TenthPowerBoard:TE_282834-2"
 			(at 200.66 45.72 0)
 			(effects
 				(font
@@ -4578,7 +4578,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CONV_PDQ30-Q24-D12-D"
+		(property "Footprint" "F1TenthPowerBoard:CONV_PDQ30-Q24-D12-D"
 			(at 139.7 96.52 0)
 			(effects
 				(font
