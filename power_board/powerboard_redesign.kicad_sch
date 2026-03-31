@@ -2754,7 +2754,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BM06B-SRSS-TBLFSN"
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
 			(at 241.3 50.8 0)
 			(effects
 				(font
