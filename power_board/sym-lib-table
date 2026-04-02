@@ -4,4 +4,5 @@
   (lib (name "282834-2")(type "KiCad")(uri "${KIPRJMOD}/s12_footprint/282834-2.kicad_sym")(options "")(descr ""))
   (lib (name "CONN_BM06B-SRSS-TB_JST")(type "KiCad")(uri "${KIPRJMOD}/s12_footprint/CONN_BM06B-SRSS-TB_JST.kicad_sym")(options "")(descr ""))
   (lib (name "PDQ30-Q24-D12-D")(type "KiCad")(uri "${KIPRJMOD}/s12_footprint/PDQ30-Q24-D12-D.kicad_sym")(options "")(descr ""))
+  (lib (name "B4B-XH-A")(type "KiCad")(uri "${KIPRJMOD}/s12_footprint/B4B-XH-A.kicad_sym")(options "")(descr ""))
 )
