@@ -1,13 +1,13 @@
 
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-  (symbol "PDQ30-Q24-D12-D" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-    (property "Reference" "U" (id 0) (at -12.7117 10.1694 0)
+  (symbol "PDQ30-Q24-S12-D" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "U" (id 0) (at -12.7244 10.1795 0)
       (effects (font (size 1.27 1.27)) (justify bottom left))
     )
-    (property "Value" "PDQ30-Q24-D12-D" (id 1) (at -12.7338 -12.7338 0)
+    (property "Value" "PDQ30-Q24-S12-D" (id 1) (at -12.746 -15.2952 0)
       (effects (font (size 1.27 1.27)) (justify bottom left))
     )
-    (property "Footprint" "PDQ30-Q24-D12-D:CONV_PDQ30-Q24-D12-D" (id 2) (at 0 0 0)
+    (property "Footprint" "PDQ30-Q24-S12-D:CONV_PDQ30-Q24-S12-D" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "PARTREV" "1.0" (id 4) (at 0 0 0)
@@ -19,8 +19,8 @@
     (property "STANDARD" "Manufacturer Recommendations" (id 6) (at 0 0 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (symbol "PDQ30-Q24-D12-D_0_0"
-      (rectangle (start -12.7 -10.16) (end 12.7 10.16)
+    (symbol "PDQ30-Q24-S12-D_0_0"
+      (rectangle (start -12.7 -12.7) (end 12.7 10.16)
         (stroke (width 0.254)) (fill (type background))
       )
       (pin input line (at -17.78 5.08 0) (length 5.08)
@@ -47,8 +47,8 @@
           (effects (font (size 1.016 1.016)))
         )
       )
-      (pin power_in line (at 17.78 -7.62 180.0) (length 5.08)
-        (name "COMMON"
+      (pin passive line (at 17.78 -7.62 180.0) (length 5.08)
+        (name "TRIM"
           (effects (font (size 1.016 1.016)))
         )
         (number "4"
