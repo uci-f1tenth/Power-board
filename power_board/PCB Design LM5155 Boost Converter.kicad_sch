@@ -3232,10 +3232,28 @@
 		(uuid "1d4fdd95-b395-4390-aa53-49f4f92ca281")
 	)
 	(junction
+		(at 182.88 236.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1f2d38b2-5dcd-4e32-a2bf-2d527712b65a")
+	)
+	(junction
+		(at 189.23 269.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "23fba01c-241a-4bb1-b0c7-772316f0bc9f")
+	)
+	(junction
 		(at 415.29 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "255747d8-b20b-439e-9702-a36dde9fcb24")
+	)
+	(junction
+		(at 189.23 236.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "27304826-ecae-4a18-a23d-cc0b37105bad")
 	)
 	(junction
 		(at 300.99 49.53)
@@ -3256,6 +3274,12 @@
 		(uuid "39aef238-1d79-4e09-95fa-e49e86bd5795")
 	)
 	(junction
+		(at 152.4 245.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "39b4725b-4a63-4f54-965b-2e819fb884c5")
+	)
+	(junction
 		(at 327.66 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3268,6 +3292,12 @@
 		(uuid "3dd93c81-9283-4a86-8f81-d73dcb3a3bf4")
 	)
 	(junction
+		(at 82.55 251.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3e7b21d9-7f5b-4796-a7d5-914ff8d32db1")
+	)
+	(junction
 		(at 300.99 90.805)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3278,6 +3308,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "43dba57d-5e8c-4f39-a0b3-ed0caa7f8346")
+	)
+	(junction
+		(at 189.23 256.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4a59bc28-953d-4831-ba7d-909b85543ab9")
 	)
 	(junction
 		(at 336.55 62.865)
@@ -3352,10 +3388,28 @@
 		(uuid "7ead079b-423f-40ce-aca5-68aa6ac86ee9")
 	)
 	(junction
+		(at 170.18 236.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "80e331c6-bea2-4266-88b7-9bcc510ef5bb")
+	)
+	(junction
+		(at 76.2 236.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "86dcb22b-83d4-4239-a895-af6aa569ea16")
+	)
+	(junction
 		(at 356.87 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "87f8e269-a1e7-46a6-80d3-2b9c94efbff5")
+	)
+	(junction
+		(at 157.48 236.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8ac4ca42-4f3c-40b2-bf1c-6b721484b46a")
 	)
 	(junction
 		(at 219.71 127.635)
@@ -3376,16 +3430,28 @@
 		(uuid "9d2dfd67-601e-423b-9872-bf7094ef4b65")
 	)
 	(junction
+		(at 104.14 241.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a1ff8c46-ba78-48de-81ca-d5e652acb97a")
+	)
+	(junction
 		(at 96.52 254)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a23f65fd-77b3-4ff0-a3cc-6d975c6a1d97")
 	)
 	(junction
-		(at 76.2 236.22)
+		(at 114.3 264.16)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "aac093f8-1dbb-491e-8fc0-a0b8fadb02e7")
+		(uuid "ae527eb0-98ac-442c-93a9-f3c0e4cb2305")
+	)
+	(junction
+		(at 68.58 236.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "afbc371f-0eb7-497f-bde8-3be4249438b9")
 	)
 	(junction
 		(at 356.87 62.865)
@@ -3394,10 +3460,22 @@
 		(uuid "b19e621e-01ea-429d-a7c2-2f2a9193b6b0")
 	)
 	(junction
+		(at 157.48 245.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b798a3cd-12bf-49f9-8d29-abc60b3aaa41")
+	)
+	(junction
 		(at 83.82 236.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bfa66d07-93d3-4660-b05b-d79d236e2fe5")
+	)
+	(junction
+		(at 68.58 251.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c274e40f-cdcb-4d6e-a3d5-b9373d1b9805")
 	)
 	(junction
 		(at 391.16 49.53)
@@ -3412,6 +3490,12 @@
 		(uuid "ccee4069-776f-4d04-9c20-98158f316769")
 	)
 	(junction
+		(at 182.88 247.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ce39ddd5-224b-4afd-84b9-5288ecee57a5")
+	)
+	(junction
 		(at 403.86 62.865)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3424,12 +3508,6 @@
 		(uuid "d0d27d42-e379-4966-a55e-7e96152c4830")
 	)
 	(junction
-		(at 104.14 241.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d54ef201-a7a5-4cbc-b434-92dc179b3cab")
-	)
-	(junction
 		(at 367.03 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3440,6 +3518,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d88d393a-9154-461b-aff7-5f9d160e26a5")
+	)
+	(junction
+		(at 163.83 229.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "da4ca1e2-3a4d-41de-9241-926a33fac815")
 	)
 	(junction
 		(at 377.19 49.53)
@@ -3478,10 +3562,22 @@
 		(uuid "e680b971-5e03-454d-b6a5-6027570b9c26")
 	)
 	(junction
+		(at 163.83 236.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ee37cff2-2c45-4b1d-a67f-6df64db4b731")
+	)
+	(junction
 		(at 266.7 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f1847b7d-55c3-490f-90da-ebabbb1d6a36")
+	)
+	(junction
+		(at 170.18 247.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f76e285f-7120-4d27-9541-6630b3f96cf8")
 	)
 	(junction
 		(at 83.82 96.52)
@@ -3508,6 +3604,16 @@
 			(type default)
 		)
 		(uuid "0061a2ef-2da4-4e42-8631-ea8cb463edab")
+	)
+	(wire
+		(pts
+			(xy 160.02 261.62) (xy 152.4 261.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "007a113a-979d-4df3-bab7-ef26a2fd408d")
 	)
 	(wire
 		(pts
@@ -3591,6 +3697,16 @@
 	)
 	(wire
 		(pts
+			(xy 200.66 240.03) (xy 200.66 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b43fa05-d22f-47e6-9769-bbdebc96f853")
+	)
+	(wire
+		(pts
 			(xy 152.4 154.305) (xy 167.64 154.305)
 		)
 		(stroke
@@ -3618,6 +3734,16 @@
 			(type default)
 		)
 		(uuid "0f0a41fe-66bf-4a39-828c-ba109e2532ba")
+	)
+	(wire
+		(pts
+			(xy 96.52 241.3) (xy 96.52 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "102c2fa9-58b6-4318-a356-758630dab938")
 	)
 	(wire
 		(pts
@@ -3811,6 +3937,26 @@
 	)
 	(wire
 		(pts
+			(xy 82.55 251.46) (xy 82.55 281.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29685a9d-bb4a-4dd4-8ac1-db40e35599a4")
+	)
+	(wire
+		(pts
+			(xy 189.23 256.54) (xy 189.23 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bc78708-305b-45ab-aefb-75cd1974a590")
+	)
+	(wire
+		(pts
 			(xy 228.6 124.46) (xy 228.6 127.635)
 		)
 		(stroke
@@ -3861,6 +4007,26 @@
 	)
 	(wire
 		(pts
+			(xy 82.55 251.46) (xy 116.84 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31753b47-598b-4af7-b051-ea89a143d6a1")
+	)
+	(wire
+		(pts
+			(xy 200.66 236.22) (xy 189.23 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36551271-fb0b-4c99-82e6-9355aabc4e8d")
+	)
+	(wire
+		(pts
 			(xy 251.46 91.44) (xy 259.08 91.44)
 		)
 		(stroke
@@ -3891,6 +4057,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 247.65) (xy 172.72 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cd82801-9b56-49ed-b557-8cab1f6637eb")
+	)
+	(wire
+		(pts
 			(xy 266.7 76.835) (xy 266.7 49.53)
 		)
 		(stroke
@@ -3901,6 +4077,16 @@
 	)
 	(wire
 		(pts
+			(xy 68.58 251.46) (xy 82.55 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e5bda96-79a1-4b5c-80dc-9adc2638f738")
+	)
+	(wire
+		(pts
 			(xy 64.77 96.52) (xy 52.705 96.52)
 		)
 		(stroke
@@ -3908,6 +4094,16 @@
 			(type default)
 		)
 		(uuid "3f136744-24d0-4cbf-9aa3-8db26bc8dda6")
+	)
+	(wire
+		(pts
+			(xy 157.48 243.84) (xy 157.48 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4062e217-c255-4125-b517-47b03416f494")
 	)
 	(wire
 		(pts
@@ -4001,6 +4197,26 @@
 	)
 	(wire
 		(pts
+			(xy 189.23 240.03) (xy 189.23 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a417884-2e9e-4081-8e34-f2e0817440d1")
+	)
+	(wire
+		(pts
+			(xy 163.83 223.52) (xy 163.83 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a76012b-4c49-42c9-a11c-c35ba7efa174")
+	)
+	(wire
+		(pts
 			(xy 209.55 91.44) (xy 243.84 91.44)
 		)
 		(stroke
@@ -4018,6 +4234,16 @@
 			(type default)
 		)
 		(uuid "4c7445f5-7e0d-47a4-b97b-129cd3943468")
+	)
+	(wire
+		(pts
+			(xy 180.34 247.65) (xy 182.88 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c7f0919-1a5e-410e-81c7-4a6641f5710b")
 	)
 	(wire
 		(pts
@@ -4048,6 +4274,16 @@
 			(type default)
 		)
 		(uuid "4e92def7-5a91-4251-bd41-a2ef94d0b513")
+	)
+	(wire
+		(pts
+			(xy 189.23 269.24) (xy 189.23 274.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f4903dc-6332-4afd-8bb0-dd79d83ffbd1")
 	)
 	(wire
 		(pts
@@ -4098,6 +4334,16 @@
 			(type default)
 		)
 		(uuid "513ffd76-698e-481e-b23c-8a901f30d7d1")
+	)
+	(wire
+		(pts
+			(xy 189.23 269.24) (xy 200.66 269.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53ec0bb9-fb9e-41ab-a5cc-32b13932d1c6")
 	)
 	(wire
 		(pts
@@ -4171,6 +4417,16 @@
 	)
 	(wire
 		(pts
+			(xy 104.14 241.3) (xy 104.14 246.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6081ebb5-336d-4b36-b3bf-41798102ddd1")
+	)
+	(wire
+		(pts
 			(xy 222.25 57.15) (xy 222.25 59.69)
 		)
 		(stroke
@@ -4181,7 +4437,17 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 236.22) (xy 76.2 236.22)
+			(xy 180.34 236.22) (xy 182.88 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69e2fb70-8ca1-4842-9a90-1c7183a39908")
+	)
+	(wire
+		(pts
+			(xy 55.88 236.22) (xy 68.58 236.22)
 		)
 		(stroke
 			(width 0)
@@ -4261,6 +4527,16 @@
 	)
 	(wire
 		(pts
+			(xy 189.23 256.54) (xy 189.23 259.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f46e7f2-8545-4e0b-a279-3c6153bed4ee")
+	)
+	(wire
+		(pts
 			(xy 110.49 109.855) (xy 119.38 109.855)
 		)
 		(stroke
@@ -4311,6 +4587,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 251.46) (xy 170.18 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72d04e4b-bc69-4faf-92bf-56971f4b9215")
+	)
+	(wire
+		(pts
 			(xy 88.9 49.53) (xy 96.52 49.53)
 		)
 		(stroke
@@ -4318,6 +4604,16 @@
 			(type default)
 		)
 		(uuid "773e06fd-fb3e-4b1b-af00-db92afc58f2b")
+	)
+	(wire
+		(pts
+			(xy 163.83 236.22) (xy 163.83 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79c8ad4c-bfc2-4472-ab42-9a23a0d29220")
 	)
 	(wire
 		(pts
@@ -4341,6 +4637,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 236.22) (xy 157.48 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d29ed8d-2e2c-47ad-bd26-a10edb5087b6")
+	)
+	(wire
+		(pts
 			(xy 356.87 59.69) (xy 356.87 62.865)
 		)
 		(stroke
@@ -4348,6 +4654,16 @@
 			(type default)
 		)
 		(uuid "7d4a09a4-0c50-4969-b084-017f07e2635b")
+	)
+	(wire
+		(pts
+			(xy 170.18 247.65) (xy 170.18 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7dd09179-66a7-4f03-86e4-11455539e942")
 	)
 	(wire
 		(pts
@@ -4511,6 +4827,16 @@
 	)
 	(wire
 		(pts
+			(xy 114.3 261.62) (xy 114.3 264.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ecb6ae7-0b13-40b4-8d02-419d82fcb4ea")
+	)
+	(wire
+		(pts
 			(xy 300.99 90.805) (xy 300.99 93.98)
 		)
 		(stroke
@@ -4611,6 +4937,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 254) (xy 182.88 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bdd6c70-6259-408d-b2b3-5432fb206431")
+	)
+	(wire
+		(pts
 			(xy 152.4 154.305) (xy 152.4 142.24)
 		)
 		(stroke
@@ -4618,6 +4954,16 @@
 			(type default)
 		)
 		(uuid "9c73e4d5-5d73-4217-82db-e95b7be1c09f")
+	)
+	(wire
+		(pts
+			(xy 163.83 229.87) (xy 165.1 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d1b1ae1-a768-4726-a0d7-37a7e9e6f649")
 	)
 	(wire
 		(pts
@@ -4641,6 +4987,46 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 247.65) (xy 182.88 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0a6fb38-a089-4b80-8c81-7021d04d2d50")
+	)
+	(wire
+		(pts
+			(xy 163.83 236.22) (xy 170.18 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1747c12-feb5-4bb6-92ad-3ded7467171a")
+	)
+	(wire
+		(pts
+			(xy 157.48 236.22) (xy 163.83 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a285d32c-1cf0-441f-a8ca-0b893ef60ee1")
+	)
+	(wire
+		(pts
+			(xy 200.66 269.24) (xy 200.66 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a54dcaa8-665a-48d5-b3bb-a2d85456ad7e")
+	)
+	(wire
+		(pts
 			(xy 228.6 141.605) (xy 228.6 142.24)
 		)
 		(stroke
@@ -4658,6 +5044,16 @@
 			(type default)
 		)
 		(uuid "a7ad9899-645b-4af7-9981-2bc11532e824")
+	)
+	(wire
+		(pts
+			(xy 163.83 245.11) (xy 157.48 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9e0d40d-c163-44f4-bccf-b44d0beb257c")
 	)
 	(wire
 		(pts
@@ -4691,6 +5087,16 @@
 	)
 	(wire
 		(pts
+			(xy 163.83 243.84) (xy 163.83 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab54986a-caf0-443b-bf66-1db4ea92776c")
+	)
+	(wire
+		(pts
 			(xy 149.86 86.36) (xy 149.86 116.84)
 		)
 		(stroke
@@ -4708,6 +5114,16 @@
 			(type default)
 		)
 		(uuid "ad6db425-24f2-4bcf-a935-d7015a19cf7e")
+	)
+	(wire
+		(pts
+			(xy 82.55 281.94) (xy 160.02 281.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae808472-648e-40aa-ac54-f8325a5d6359")
 	)
 	(wire
 		(pts
@@ -4751,6 +5167,16 @@
 	)
 	(wire
 		(pts
+			(xy 68.58 251.46) (xy 68.58 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b132cae1-940d-4a37-b62e-73e4dd89e98b")
+	)
+	(wire
+		(pts
 			(xy 300.99 49.53) (xy 308.61 49.53)
 		)
 		(stroke
@@ -4758,6 +5184,16 @@
 			(type default)
 		)
 		(uuid "b2833085-2b30-400c-bcbb-e883da683452")
+	)
+	(wire
+		(pts
+			(xy 68.58 240.03) (xy 68.58 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3111342-473a-4f69-9ad9-4a1c81b2b498")
 	)
 	(wire
 		(pts
@@ -4838,6 +5274,16 @@
 			(type default)
 		)
 		(uuid "b84e3947-9648-49c0-8fce-c259b5d1d807")
+	)
+	(wire
+		(pts
+			(xy 182.88 229.87) (xy 182.88 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "baf0a608-08f9-40c4-b522-fd611beb94cc")
 	)
 	(wire
 		(pts
@@ -4931,6 +5377,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 256.54) (xy 189.23 256.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4418779-6aca-4d72-abfb-f57376a8d44c")
+	)
+	(wire
+		(pts
 			(xy 403.86 49.53) (xy 415.29 49.53)
 		)
 		(stroke
@@ -4941,16 +5397,6 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 246.38) (xy 104.14 243.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c5857d7f-9b86-4055-9490-2ac04010301e")
-	)
-	(wire
-		(pts
 			(xy 313.69 68.58) (xy 313.69 74.93)
 		)
 		(stroke
@@ -4958,6 +5404,16 @@
 			(type default)
 		)
 		(uuid "c5970f65-01eb-4ff5-bb9a-14608af9d0dc")
+	)
+	(wire
+		(pts
+			(xy 182.88 236.22) (xy 189.23 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c82f0ccd-b0ec-4749-a4e2-b0892a800613")
 	)
 	(wire
 		(pts
@@ -5011,6 +5467,36 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 229.87) (xy 182.88 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d197304f-4d9b-4f56-8124-447595b6e40d")
+	)
+	(wire
+		(pts
+			(xy 189.23 266.7) (xy 189.23 269.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2460f65-881c-4313-85b6-cfa0341078b6")
+	)
+	(wire
+		(pts
+			(xy 182.88 236.22) (xy 182.88 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2475cd3-9dac-4a81-a28a-b8754d902658")
+	)
+	(wire
+		(pts
 			(xy 153.67 88.9) (xy 158.75 88.9)
 		)
 		(stroke
@@ -5041,16 +5527,6 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 241.3) (xy 100.33 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d8355237-a4c4-465e-b86f-904d2047fd96")
-	)
-	(wire
-		(pts
 			(xy 235.585 149.225) (xy 235.585 141.605)
 		)
 		(stroke
@@ -5068,6 +5544,16 @@
 			(type default)
 		)
 		(uuid "dadb39eb-f970-4b68-bc1b-7d8d8fd980c3")
+	)
+	(wire
+		(pts
+			(xy 68.58 247.65) (xy 68.58 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db1bb9be-bb27-4bfc-9dad-29de19950bdd")
 	)
 	(wire
 		(pts
@@ -5131,6 +5617,16 @@
 	)
 	(wire
 		(pts
+			(xy 68.58 236.22) (xy 76.2 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2aeca8f-cd86-441b-9eab-85e3decb71dc")
+	)
+	(wire
+		(pts
 			(xy 426.72 19.05) (xy 426.72 25.4)
 		)
 		(stroke
@@ -5171,16 +5667,6 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 243.84) (xy 104.14 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eab4e713-cef6-4441-b3cc-bdeba15ddcd5")
-	)
-	(wire
-		(pts
 			(xy 52.705 115.57) (xy 64.77 115.57)
 		)
 		(stroke
@@ -5198,6 +5684,16 @@
 			(type default)
 		)
 		(uuid "ed2129a1-b907-4628-a82a-2f51a05dfea0")
+	)
+	(wire
+		(pts
+			(xy 170.18 251.46) (xy 170.18 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0a35ba5-67c8-465f-af08-5a96da4bfc25")
 	)
 	(wire
 		(pts
@@ -5241,6 +5737,26 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 281.94) (xy 160.02 261.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f369e23f-3a3b-4662-9fc2-9423e0d5c676")
+	)
+	(wire
+		(pts
+			(xy 157.48 245.11) (xy 152.4 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5331e29-3648-4150-8369-c865e28ab027")
+	)
+	(wire
+		(pts
 			(xy 431.8 52.07) (xy 431.8 62.23)
 		)
 		(stroke
@@ -5248,6 +5764,16 @@
 			(type default)
 		)
 		(uuid "f5e021bc-a482-4c20-831c-e6c269b5ed51")
+	)
+	(wire
+		(pts
+			(xy 170.18 236.22) (xy 172.72 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f602d93a-4e1b-4593-98db-053d73c8be0f")
 	)
 	(wire
 		(pts
@@ -5268,6 +5794,16 @@
 			(type default)
 		)
 		(uuid "f835c365-b6dc-4b9d-9ff8-636ffbc82735")
+	)
+	(wire
+		(pts
+			(xy 116.84 261.62) (xy 114.3 261.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f967a55f-3541-4712-9290-bd35f89d2b1a")
 	)
 	(wire
 		(pts
@@ -5309,11 +5845,25 @@
 		)
 		(uuid "200c4e20-ce14-4e96-b7e5-baa48c104225")
 	)
-	(label "VIN_LIDAR"
-		(at 64.77 236.22 0)
+	(label "VOUT"
+		(at 163.83 223.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "2c38c941-d726-4236-9246-3ecdda22ac84")
+	)
+	(label "VIN_LIDAR"
+		(at 55.88 236.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -5424,6 +5974,85 @@
 			(project "PCB Design LM5155 Boost Converter"
 				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
 					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 168.91 229.87 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "069ebe47-b0a1-4dbf-bde3-289119c2a400")
+		(property "Reference" "R19"
+			(at 168.91 227.584 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 168.91 231.902 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 168.91 231.648 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 168.91 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 168.91 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "57c4927e-aaa5-4275-b127-418c2b16f141")
+		)
+		(pin "2"
+			(uuid "72396c44-0440-4fb1-b10d-0d621d22b349")
+		)
+		(instances
+			(project "PCB Design LM5155 Boost Converter"
+				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -5594,7 +6223,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 100.33 245.11 0)
+		(at 100.33 241.3 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5604,7 +6233,7 @@
 		(dnp no)
 		(uuid "0ffecb3a-11ab-4c72-999a-22a766a81fa5")
 		(property "Reference" "C21"
-			(at 96.52 243.078 0)
+			(at 99.314 240.284 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5615,7 +6244,7 @@
 			)
 		)
 		(property "Value" "4.7u"
-			(at 96.012 247.142 0)
+			(at 105.664 240.284 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5626,7 +6255,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 101.2952 248.92 0)
+			(at 104.14 240.3348 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5637,7 +6266,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 245.11 0)
+			(at 100.33 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5648,7 +6277,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 100.33 245.11 0)
+			(at 100.33 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5668,6 +6297,85 @@
 			(project "PCB Design LM5155 Boost Converter"
 				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
 					(reference "C21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 182.88 231.14 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "14c4c39c-d084-4a80-ad5b-2effa5965b58")
+		(property "Reference" "#PWR028"
+			(at 182.88 237.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 182.88 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 182.88 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.88 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 182.88 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8a7c6073-4743-4864-a826-b55f93304991")
+		)
+		(instances
+			(project "PCB Design LM5155 Boost Converter"
+				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -6385,6 +7093,85 @@
 			(project "PCB Design LM5155 Boost Converter"
 				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
 					(reference "C22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDPWR")
+		(at 68.58 261.62 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "29afb79e-af7b-4075-b2fc-0ea8e23e52ed")
+		(property "Reference" "#PWR027"
+			(at 68.58 266.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDPWR"
+			(at 68.453 265.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 68.58 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 68.58 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
+			(at 68.58 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0e980e12-25ac-411d-b2b9-9b344891528d")
+		)
+		(instances
+			(project "PCB Design LM5155 Boost Converter"
+				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -7458,6 +8245,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 163.83 240.03 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "54cbd01e-828c-4f1f-b644-60a56383314e")
+		(property "Reference" "C29"
+			(at 164.084 237.998 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "47u"
+			(at 163.83 242.062 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 164.7952 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 163.83 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 163.83 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0e57610e-3143-4b6e-bd7b-317dc6eaeee7")
+		)
+		(pin "2"
+			(uuid "a45308b9-09a4-4635-b5ce-048a3445a1e8")
+		)
+		(instances
+			(project "PCB Design LM5155 Boost Converter"
+				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
+					(reference "C29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Polarized_US")
 		(at 346.71 55.88 0)
 		(unit 1)
@@ -7540,7 +8408,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 100.33 248.92 0)
+		(at 96.52 245.11 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7551,7 +8419,7 @@
 		(fields_autoplaced yes)
 		(uuid "5c51737a-b382-4968-90e7-21df8260d6db")
 		(property "Reference" "#PWR021"
-			(at 100.33 255.27 0)
+			(at 96.52 251.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7562,7 +8430,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 100.33 254 0)
+			(at 96.52 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7573,7 +8441,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 100.33 248.92 0)
+			(at 96.52 245.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7584,7 +8452,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 248.92 0)
+			(at 96.52 245.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7595,7 +8463,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 100.33 248.92 0)
+			(at 96.52 245.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8019,6 +8887,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 189.23 243.84 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6a3f9624-eec4-4a90-a6ea-0f242db0f868")
+		(property "Reference" "R15"
+			(at 190.246 242.57 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100k"
+			(at 190.246 244.094 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 187.452 243.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 189.23 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 189.23 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3d1810be-0366-4ed3-a836-1c71c026030c")
+		)
+		(pin "2"
+			(uuid "855f8345-f490-45df-80ff-c17c5e251deb")
+		)
+		(instances
+			(project "PCB Design LM5155 Boost Converter"
+				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GNDPWR")
 		(at 403.86 66.04 0)
 		(unit 1)
@@ -8348,6 +9297,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 176.53 247.65 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7a24427c-5d89-4e42-83f9-5cbdfe61a542")
+		(property "Reference" "C30"
+			(at 176.53 244.348 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1u"
+			(at 176.53 250.952 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 180.34 246.6848 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 176.53 247.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 176.53 247.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5a8ab709-3ecc-4166-85ca-b3ecd6fdfb80")
+		)
+		(pin "2"
+			(uuid "7c0d42c1-0e6c-45d2-b3fd-e64009e6fe7e")
+		)
+		(instances
+			(project "PCB Design LM5155 Boost Converter"
+				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
+					(reference "C30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "TB002-500-02BE:TB002-500-02BE")
 		(at 78.74 49.53 180)
 		(unit 1)
@@ -8663,6 +9691,96 @@
 			(project "PCB Design LM5155 Boost Converter"
 				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
 					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 176.53 229.87 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "85aab66c-af54-450a-b6e1-993c1452113c")
+		(property "Reference" "D5"
+			(at 176.53 227.584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 177.292 232.156 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 176.53 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 176.53 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 176.53 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 176.53 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "ba6445ee-fb63-4ba2-96f5-a713475ee6b5")
+		)
+		(pin "1"
+			(uuid "ff530e9c-2069-4525-aba5-511f62b04ea5")
+		)
+		(instances
+			(project "PCB Design LM5155 Boost Converter"
+				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -9469,6 +10587,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D_Zener")
+		(at 68.58 257.81 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9da47fe2-fb10-4b31-9155-475ea8dc2540")
+		(property "Reference" "D4"
+			(at 71.12 256.5399 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "3.3"
+			(at 71.12 259.0799 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 68.58 257.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 68.58 257.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Zener diode"
+			(at 68.58 257.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b16d1e6a-29a7-476b-8ae8-f520a056cabc")
+		)
+		(pin "2"
+			(uuid "2fd6181f-7c28-418f-a285-3f30afd7f6bf")
+		)
+		(instances
+			(project "PCB Design LM5155 Boost Converter"
+				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_US")
 		(at 265.43 123.19 0)
 		(unit 1)
@@ -9574,6 +10774,7 @@
 		)
 		(property "Value" "GND"
 			(at 154.94 279.4 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9785,6 +10986,87 @@
 			(project "PCB Design LM5155 Boost Converter"
 				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
 					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 200.66 243.84 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ae992e70-d91d-403e-979d-6703a4e8ded1")
+		(property "Reference" "R17"
+			(at 201.676 242.57 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "3"
+			(at 201.676 244.348 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 198.882 243.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 200.66 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 200.66 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f5726a2c-dc66-4b76-b9e4-e24ad2351da5")
+		)
+		(pin "1"
+			(uuid "bcccd573-b38a-406f-981a-519cf2226274")
+		)
+		(instances
+			(project "PCB Design LM5155 Boost Converter"
+				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -10005,6 +11287,247 @@
 			(project "PCB Design LM5155 Boost Converter"
 				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
 					(reference "TPS1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 68.58 243.84 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b35b5ae6-4e73-4d61-92d6-73324c1046d3")
+		(property "Reference" "R18"
+			(at 63.5 241.3 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "3.3k"
+			(at 63.246 243.078 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 66.802 243.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 68.58 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 68.58 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a24aa1c3-a5e4-47e8-9b6e-84a391c608d1")
+		)
+		(pin "1"
+			(uuid "63a07b6a-20f6-41c7-872b-8f075786bfb4")
+		)
+		(instances
+			(project "PCB Design LM5155 Boost Converter"
+				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
+					(reference "R18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 157.48 240.03 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b371edb6-26fc-424e-a2a4-d09d2f9878b2")
+		(property "Reference" "C28"
+			(at 153.416 238.252 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22u"
+			(at 153.67 242.062 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 158.4452 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 157.48 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "08aabb1c-315e-406b-81bf-d14fe192cbca")
+		)
+		(pin "1"
+			(uuid "87d20487-7341-4d91-b9b6-6ea89bd38a24")
+		)
+		(instances
+			(project "PCB Design LM5155 Boost Converter"
+				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
+					(reference "C28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 176.53 236.22 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "bd2f6540-3ab6-4225-ab0c-fab5916030bc")
+		(property "Reference" "R14"
+			(at 176.53 234.442 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10m"
+			(at 176.53 238.252 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 176.53 237.998 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 176.53 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 176.53 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a2f8ba2f-f3ca-4fd3-926a-9015238149ed")
+		)
+		(pin "2"
+			(uuid "20fa2880-ac6a-4573-97f3-c18a7c189d2b")
+		)
+		(instances
+			(project "PCB Design LM5155 Boost Converter"
+				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -10277,6 +11800,7 @@
 		)
 		(property "Value" "GND"
 			(at 176.53 279.4 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10404,6 +11928,87 @@
 			(project "PCB Design LM5155 Boost Converter"
 				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
 					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 189.23 262.89 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c9b7465f-2060-4aa3-a53b-834a9e7052d5")
+		(property "Reference" "R16"
+			(at 190.5 261.874 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "11k"
+			(at 190.5 263.652 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 187.452 262.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 189.23 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 189.23 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "fb55d30d-02ef-4c0b-a589-16c0e31a27cb")
+		)
+		(pin "1"
+			(uuid "f2fb516d-b5f2-444e-b465-3a789647f844")
+		)
+		(instances
+			(project "PCB Design LM5155 Boost Converter"
+				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -11154,6 +12759,85 @@
 			(project "PCB Design LM5155 Boost Converter"
 				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
 					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 189.23 274.32 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e1bad0fe-778d-4ca1-8081-9edb9bbb17e8")
+		(property "Reference" "#PWR026"
+			(at 189.23 280.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 189.23 279.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 189.23 274.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 189.23 274.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 189.23 274.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7de74b81-50f8-43ea-bad2-df771823f062")
+		)
+		(instances
+			(project "PCB Design LM5155 Boost Converter"
+				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
