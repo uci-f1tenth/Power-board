@@ -5879,6 +5879,16 @@
 		)
 		(uuid "96f560de-b373-4d03-ae16-37fa503fb489")
 	)
+	(label "VIN_LIDAR"
+		(at 427.99 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9d342289-c744-439b-b027-bbb3d72acb4c")
+	)
 	(label "RSENSE"
 		(at 228.6 129.54 0)
 		(effects
@@ -6010,7 +6020,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 168.91 231.648 90)
 			(hide yes)
 			(show_name no)
@@ -6254,7 +6264,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 104.14 240.3348 0)
 			(hide yes)
 			(show_name no)
@@ -7050,7 +7060,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 143.2052 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -7397,7 +7407,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_Vishay_IHLP-4040"
 			(at 134.62 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -7478,7 +7488,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 174.752 262.89 90)
 			(hide yes)
 			(show_name no)
@@ -7683,85 +7693,6 @@
 			(project "PCB Design LM5155 Boost Converter"
 				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
 					(reference "C9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GNDPWR")
-		(at 91.44 243.84 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3ec2a295-d45e-4277-a4de-769dee176eb7")
-		(property "Reference" "#PWR019"
-			(at 91.44 248.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GNDPWR"
-			(at 91.313 247.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 91.44 245.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 91.44 245.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 91.44 243.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "08809fa5-afb8-47e2-bc9c-d665a74ea423")
-		)
-		(instances
-			(project "PCB Design LM5155 Boost Converter"
-				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
-					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -8196,7 +8127,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 177.4952 274.32 0)
 			(hide yes)
 			(show_name no)
@@ -8277,7 +8208,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 164.7952 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -8598,7 +8529,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 97.4852 262.89 0)
 			(hide yes)
 			(show_name no)
@@ -8679,7 +8610,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 84.7852 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -8838,7 +8769,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 127.9652 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -8919,7 +8850,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 187.452 243.84 90)
 			(hide yes)
 			(show_name no)
@@ -9327,7 +9258,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 180.34 246.6848 0)
 			(hide yes)
 			(show_name no)
@@ -9727,7 +9658,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 176.53 229.87 0)
 			(hide yes)
 			(show_name no)
@@ -10296,7 +10227,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 77.1652 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -10538,7 +10469,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 103.632 260.35 90)
 			(hide yes)
 			(show_name no)
@@ -10620,7 +10551,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 68.58 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -11024,7 +10955,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 198.882 243.84 90)
 			(hide yes)
 			(show_name no)
@@ -11105,7 +11036,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 153.162 269.24 90)
 			(hide yes)
 			(show_name no)
@@ -11187,7 +11118,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TPS552892RYQR:CONV_TPS552892RYQR"
 			(at 119.38 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -11325,7 +11256,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 66.802 243.84 90)
 			(hide yes)
 			(show_name no)
@@ -11406,7 +11337,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 158.4452 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -11485,7 +11416,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 176.53 237.998 90)
 			(hide yes)
 			(show_name no)
@@ -11885,7 +11816,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 110.49 248.158 90)
 			(hide yes)
 			(show_name no)
@@ -11966,7 +11897,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 187.452 262.89 90)
 			(hide yes)
 			(show_name no)
@@ -12255,6 +12186,85 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDPWR")
+		(at 91.44 243.84 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cfb3ff06-b989-4283-ab8e-db67aaae2367")
+		(property "Reference" "#PWR019"
+			(at 91.44 248.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PGND"
+			(at 91.313 247.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 91.44 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 91.44 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
+			(at 91.44 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b6b2afb1-5f5f-467c-948d-f19bb284f109")
+		)
+		(instances
+			(project "PCB Design LM5155 Boost Converter"
+				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Polarized_US")
 		(at 356.87 55.88 0)
 		(unit 1)
@@ -12366,7 +12376,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 110.49 242.062 90)
 			(hide yes)
 			(show_name no)
@@ -12957,7 +12967,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 89.8652 262.89 0)
 			(hide yes)
 			(show_name no)
@@ -13038,7 +13048,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 167.3352 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -13360,7 +13370,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 92.4052 243.84 0)
 			(hide yes)
 			(show_name no)

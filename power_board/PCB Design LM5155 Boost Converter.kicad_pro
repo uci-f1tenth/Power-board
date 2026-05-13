@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.0,
+          "height": 0.64,
+          "width": 0.715
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -195,9 +195,9 @@
       ],
       "track_widths": [
         0.0,
-        0.2,
-        0.3,
-        0.35,
+        0.25,
+        0.4,
+        0.5,
         1.0
       ],
       "tuning_pattern_settings": {
@@ -649,7 +649,7 @@
         "uuid": "085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR16,#PWR19,#PWR29-31,D4,U2",
     "variants": []
   },
   "sheets": [
