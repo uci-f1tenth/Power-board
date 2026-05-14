@@ -18801,16 +18801,16 @@
 			)
 		)
 	)
-	(gr_rect
-		(start 116 56.5)
-		(end 122 62)
+	(gr_circle
+		(center 118 57.3)
+		(end 119.9 60.15)
 		(stroke
 			(width 0.2)
 			(type default)
 		)
 		(fill no)
 		(layer "F.Cu")
-		(uuid "3c344aa7-8060-4e4c-ab0c-fe2d2152cb44")
+		(uuid "bd84be15-6b20-4562-aa2a-baa62d46d866")
 	)
 	(gr_arc
 		(start 102.24 52.351)
