@@ -18801,6 +18801,17 @@
 			)
 		)
 	)
+	(gr_rect
+		(start 116 56.5)
+		(end 122 62)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Cu")
+		(uuid "3c344aa7-8060-4e4c-ab0c-fe2d2152cb44")
+	)
 	(gr_arc
 		(start 102.24 52.351)
 		(mid 102.532893 51.643893)
