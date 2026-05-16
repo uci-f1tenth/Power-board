@@ -456,7 +456,7 @@
 		(layer "F.Cu")
 		(uuid "059ce2bd-5a42-41b3-94c9-7fe685b56542")
 		(at 196.882 77.55 180)
-		(property "Reference" "Vin1"
+		(property "Reference" "VIN"
 			(at 2.455 -6.85 0)
 			(layer "F.SilkS")
 			(uuid "d28cc381-d30a-4707-b1f7-0b3bcabe5e2e")
@@ -4652,7 +4652,7 @@
 		(layer "F.Cu")
 		(uuid "84aff42c-914f-4d58-b631-7f4830ff919a")
 		(at 155.2624 93.6575 180)
-		(property "Reference" "Vout1"
+		(property "Reference" "VOUT"
 			(at 10.7054 -2.8425 0)
 			(layer "F.SilkS")
 			(uuid "d608ac1e-4fed-4cf8-99ad-503c838ee9e3")
