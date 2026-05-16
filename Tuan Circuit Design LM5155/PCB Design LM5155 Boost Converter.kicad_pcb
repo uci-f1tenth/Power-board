@@ -574,7 +574,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C15"
-			(at 3.2646 1.42 0)
+			(at 3.6856 -0.143 0)
 			(layer "F.SilkS")
 			(uuid "196c23a3-68de-422f-bd4b-9c36ad38d9a0")
 			(effects
@@ -1878,7 +1878,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at -0.09 -1.545 90)
+			(at -0.087 -1.6944 180)
 			(layer "F.SilkS")
 			(uuid "926f8e97-5f03-4d0b-a2ab-8ab3e7363aa8")
 			(effects
@@ -4102,7 +4102,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C14"
-			(at 2.229 0.152 0)
+			(at 0.092 2.291 0)
 			(layer "F.SilkS")
 			(uuid "786210dc-6871-49ca-936c-33de9d75833b")
 			(effects
@@ -6854,7 +6854,7 @@
 		(descr "SMD capacitor, aluminum electrolytic, Nichicon, 6.3x5.8mm")
 		(tags "capacitor electrolytic")
 		(property "Reference" "C4"
-			(at 4.72 1.78 90)
+			(at 4.72 1.78 180)
 			(layer "F.SilkS")
 			(uuid "0b7deb57-529f-40fe-b0fe-796a0ea520f1")
 			(effects
