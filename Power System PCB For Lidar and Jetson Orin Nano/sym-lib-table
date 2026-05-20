@@ -1,0 +1,12 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "power_board") (type "KiCad") (uri "${KIPRJMOD}/power_board.kicad_sym") (options "") (descr ""))
+	(lib (name "TB002-500-02BE") (type "KiCad") (uri "${KIPRJMOD}/TB002_500_02BE/TB002-500-02BE.kicad_sym") (options "") (descr ""))
+	(lib (name "282834-2") (type "KiCad") (uri "C:/Users/Tuan Quang Lien/Documents/GitHub/Power-board/Tuan Circuit Design LM5155/282834-2/282834-2.kicad_sym") (options "") (descr ""))
+	(lib (name "B4B-XH-A") (type "KiCad") (uri "C:/Users/Tuan Quang Lien/Documents/GitHub/Power-board/Tuan Circuit Design LM5155/B4B-XH-A/B4B-XH-A.kicad_sym") (options "") (descr ""))
+	(lib (name "CONN_BM06B-SRSS-TB_JST") (type "KiCad") (uri "C:/Users/Tuan Quang Lien/Documents/GitHub/Power-board/Tuan Circuit Design LM5155/BM06B-SRSS-TBLFSN/CONN_BM06B-SRSS-TB_JST.kicad_sym") (options "") (descr ""))
+	(lib (name "B5B-XH-A") (type "KiCad") (uri "C:/Users/Tuan Quang Lien/Documents/GitHub/Power-board/Tuan Circuit Design LM5155/B5B-XH-A/B5B-XH-A.kicad_sym") (options "") (descr ""))
+	(lib (name "TPS552892") (type "KiCad") (uri "C:/Users/Tuan Quang Lien/Documents/GitHub/Power-board/Tuan Circuit Design LM5155/TPS552892RYQR/KiCADv6/2026-05-20_05-28-58.kicad_sym") (options "") (descr ""))
+	(lib (name "100SP1T1B4M2QE") (type "KiCad") (uri "${KIPRJMOD}/SW_100SP1T1B4M2QE/100SP1T1B4M2QE.kicad_sym") (options "") (descr ""))
+	(lib (name "BSC035N04LS G") (type "Altium") (uri "${KIPRJMOD}/BSC035N04LSGATMA1/BSC035N04LS G.SchLib") (options "") (descr ""))
+)
