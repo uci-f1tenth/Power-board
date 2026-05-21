@@ -6011,6 +6011,12 @@
 		(uuid "ae603ecd-8961-4a63-ad9f-1093b308020d")
 	)
 	(junction
+		(at 64.77 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b2e60153-cc82-496f-bbfd-982bc94ea206")
+	)
+	(junction
 		(at 347.98 64.135)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6099,6 +6105,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e001a44e-9fae-440f-8b57-2e31fc31c13a")
+	)
+	(junction
+		(at 62.23 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f1b01389-2396-4854-95bb-ecae611bc5ef")
 	)
 	(junction
 		(at 261.62 238.76)
@@ -6238,7 +6250,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 55.88) (xy 78.74 55.88)
+			(xy 46.99 55.88) (xy 64.77 55.88)
 		)
 		(stroke
 			(width 0)
@@ -6298,7 +6310,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 48.26) (xy 55.88 48.26)
+			(xy 71.12 48.26) (xy 62.23 48.26)
 		)
 		(stroke
 			(width 0)
@@ -7628,6 +7640,16 @@
 	)
 	(wire
 		(pts
+			(xy 64.77 55.88) (xy 64.77 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c8498ad-17b7-4002-839b-62b8d2e13b7f")
+	)
+	(wire
+		(pts
 			(xy 78.74 55.88) (xy 78.74 50.8)
 		)
 		(stroke
@@ -7795,6 +7817,16 @@
 			(type default)
 		)
 		(uuid "9942b157-1189-4f54-b520-4083e32c04e9")
+	)
+	(wire
+		(pts
+			(xy 62.23 48.26) (xy 55.88 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a874941-ad33-45e0-b059-8a06c715a090")
 	)
 	(wire
 		(pts
@@ -8125,6 +8157,16 @@
 			(type default)
 		)
 		(uuid "b49a6cec-f632-4a3b-8b3e-b680aede693d")
+	)
+	(wire
+		(pts
+			(xy 62.23 48.26) (xy 62.23 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4c5e50b-e46c-4e03-b631-21f1fc77823c")
 	)
 	(wire
 		(pts
@@ -8485,6 +8527,16 @@
 			(type default)
 		)
 		(uuid "d008d4c8-8f33-4a3d-a3c1-87bbb6efd521")
+	)
+	(wire
+		(pts
+			(xy 64.77 55.88) (xy 78.74 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0d392c7-5eb4-48f5-b2f9-a954b4d9514c")
 	)
 	(wire
 		(pts
@@ -9703,6 +9755,113 @@
 			(project "PCB Design LM5155 Boost Converter"
 				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
 					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TB002-500-02BE:TB002-500-02BE")
+		(at 62.23 68.58 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "12f8f8c3-5216-4ece-a509-0bc567913f3c")
+		(property "Reference" "Vout6"
+			(at 68.58 67.3099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TB002-500-02BE"
+			(at 68.58 69.8499 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "282834-2:TE_282834-2"
+			(at 62.23 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 62.23 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 62.23 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 62.23 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "CUI"
+			(at 62.23 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "1"
+			(uuid "9f8c7aa3-d9bf-4c48-ada3-357039206656")
+		)
+		(pin "2"
+			(uuid "354f8336-624f-4aea-bbc0-d6ffb697bbd2")
+		)
+		(instances
+			(project "PCB Design LM5155 Boost Converter"
+				(path "/085c1d8f-d12d-46a1-b7b5-945f7ea1ec15"
+					(reference "Vout6")
 					(unit 1)
 				)
 			)

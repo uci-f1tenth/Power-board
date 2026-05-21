@@ -768,7 +768,7 @@
 		(layer "F.Cu")
 		(uuid "143fc544-fbcc-40ab-83fb-2114472f9a83")
 		(at 145.1 98.811 180)
-		(property "Reference" "+18V"
+		(property "Reference" "Vout4"
 			(at -2.4 -4.289 0)
 			(layer "F.SilkS")
 			(uuid "699209b5-65b2-4ed8-b706-7c40b9291708")
@@ -14678,7 +14678,7 @@
 		(layer "F.Cu")
 		(uuid "a72a09eb-2f3c-4185-bff9-44f4a09d1104")
 		(at 138.115 98.811 180)
-		(property "Reference" "+18V"
+		(property "Reference" "Vout3"
 			(at -1.885 -4.189 0)
 			(layer "F.SilkS")
 			(uuid "ca47212e-d6e3-4df7-9b86-84ca0de66aad")
@@ -15004,7 +15004,7 @@
 		(uuid "a87197bc-657f-4f38-91cf-a7b9da4fac7d")
 		(at 127.955 92.461)
 		(tags "BM06B-SRSS-TBLFSN ")
-		(property "Reference" "+12V"
+		(property "Reference" "J5"
 			(at 6.545 -0.261 0)
 			(unlocked yes)
 			(layer "F.SilkS")
