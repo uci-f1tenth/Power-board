@@ -98,6 +98,7 @@
 			(dielectric_constraints no)
 		)
 		(pad_to_mask_clearance 0)
+		(pad_to_paste_clearance -0.063)
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting
 			(front yes)
@@ -115,7 +116,7 @@
 		(filling no)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
-			(plot_on_all_layers_selection 0x00000000_00000000_00000000_020000a5)
+			(plot_on_all_layers_selection 0x00000000_00000000_00000000_02002000)
 			(disableapertmacros no)
 			(usegerberextensions no)
 			(usegerberattributes yes)
@@ -132,7 +133,7 @@
 			(pdf_metadata yes)
 			(pdf_single_document no)
 			(dxfpolygonmode yes)
-			(dxfimperialunits yes)
+			(dxfimperialunits no)
 			(dxfusepcbnewfont yes)
 			(psnegative no)
 			(psa4output no)
@@ -143,11 +144,11 @@
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
 			(subtractmaskfromsilk no)
-			(outputformat 1)
+			(outputformat 3)
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "DXF File/")
 		)
 	)
 	(footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
@@ -21528,7 +21529,7 @@
 		)
 	)
 	(gr_text "Last Update: May 20 2026"
-		(at 162.926 66.679 0)
+		(at 162.9 67.1 0)
 		(layer "B.SilkS")
 		(uuid "d6fd31bc-1365-4e8c-b835-b4567d4d741e")
 		(effects
